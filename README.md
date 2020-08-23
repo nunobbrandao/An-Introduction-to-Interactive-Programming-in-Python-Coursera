@@ -1,7 +1,7 @@
 # An-Introduction-to-Interactive-Programming-in-Python-Coursera
 
-Week 1 - Program that plays a variant of Rock-Paper-Scissors
-Week 2 - Program that plays a simple guessing game
+Week 1 - Program that plays a variant of Rock-Paper-Scissors n/
+Week 2 - Program that plays a simple guessing game n/
 Week 3 - Digital stopwatch
 Week 4 - Pong
 Week 5 - Memory (lists)
