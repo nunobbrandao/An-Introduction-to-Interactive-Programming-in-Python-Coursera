@@ -10,7 +10,7 @@
 - Week 8 - Final project step 2 (incomplete)
 
 More information on:
-https://www.coursera.org/learn/interactive-python-1
+https://www.coursera.org/learn/interactive-python-1 and
 https://www.coursera.org/learn/interactive-python-2
 
 The code needs to be compiled on codeskulpture -- http://www.codeskulptor.org/
